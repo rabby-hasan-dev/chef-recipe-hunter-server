@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "name": "Li Wei",
+        "picture": "https://example.com/chef-liwei.jpg",
+        "bio": "Li Wei is a renowned Chinese chef with a passion for creating authentic and delicious dishes. He has dedicated over 20 years to mastering the art of Chinese cuisine and has gained a wealth of experience in various regional cooking styles.",
+        "yearsOfExperience": 20,
+        "likes": 4500
+    },
+    {
+        "id": "2",
+        "name": "Chen Xia",
+        "picture": "https://example.com/chef-chenxia.jpg",
+        "bio": "Chen Xia is a talented chef known for her expertise in Sichuan cuisine. With a career spanning 15 years, she has honed her skills in creating bold and flavorful dishes that showcase the unique spices and techniques of the region.",
+        "yearsOfExperience": 15,
+        "likes": 3800
+    },
+    {
+        "id": "3",
+        "name": "Wang Lin",
+        "picture": "https://example.com/chef-wanglin.jpg",
+        "bio": "Wang Lin is a master of Cantonese cuisine. With over 25 years of experience, he has perfected the art of creating delicate and refined dishes that emphasize fresh ingredients and harmonious flavors.",
+        "yearsOfExperience": 25,
+        "likes": 5200
+    },
+    {
+        "id": "4",
+        "name": "Liu Yang",
+        "picture": "https://example.com/chef-liuyang.jpg",
+        "bio": "Liu Yang is a creative chef known for his innovative approach to Chinese fusion cuisine. With 12 years of experience, he seamlessly blends traditional Chinese flavors with global culinary influences, resulting in exciting and unique dishes.",
+        "yearsOfExperience": 12,
+        "likes": 2900
+    },
+    {
+        "id": "5",
+        "name": "Zhang Wei",
+        "picture": "https://example.com/chef-zhangwei.jpg",
+        "bio": "Zhang Wei is a passionate chef specializing in Shanghainese cuisine. With a career spanning 18 years, he has mastered the art of creating exquisite dishes that highlight the delicate balance of sweet and savory flavors in this regional cuisine.",
+        "yearsOfExperience": 18,
+        "likes": 4200
+    },
+    {
+        "id": "6",
+        "name": "Yang Min",
+        "picture": "https://example.com/chef-yangmin.jpg",
+        "bio": "Yang Min is a skilled chef known for his expertise in Hunan cuisine. With over 15 years of experience, he brings bold flavors and spicy elements to his dishes, creating an exciting culinary experience for food enthusiasts.",
+        "yearsOfExperience": 15,
+        "likes": 3700
+    },
+    {
+        "id": "7",
+        "name": "Xu Qing",
+        "picture": "https://example.com/chef-xuqing.jpg",
+        "bio": "Xu Qing is a celebrated chef with a specialization in Beijing cuisine. With a career spanning 22 years, he excels in creating dishes that reflect the rich culinary heritage of the capital city, showcasing flavors influenced by imperial traditions.",
+        "yearsOfExperience": 22,
+        "likes": 4800
+    }
+]
