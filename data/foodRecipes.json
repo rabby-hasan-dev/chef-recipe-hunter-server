@@ -3,7 +3,7 @@
         "_id": "646b0baf6db7e4b819b2288c",
         "category_id": "1",
         "name": "Spring Rolls",
-        "picture": "/data/Asset/food/food (1).jpg",
+        "picture": "https://cdn.loveandlemons.com/wp-content/uploads/2013/10/spring-rolls.jpg",
         "ingredients": [
             "Spring roll wrappers",
             "Shredded cabbage",
@@ -18,7 +18,7 @@
         "_id": "646b0baf084358cfd6c4e704",
         "category_id": "1",
         "name": "Potstickers",
-        "picture": "/data/Asset/food/food (2).jpg",
+        "picture": "https://s23209.pcdn.co/wp-content/uploads/2018/07/Vegetable-PotstickersIMG_5658.jpg",
         "ingredients": [
             "Dumpling wrappers",
             "Ground pork",
@@ -33,7 +33,7 @@
         "_id": "646b0baffbe2a6fb0026dbf1",
         "category_id": "2",
         "name": "Kung Pao Chicken",
-        "picture": "/data/Asset/food/food (3).jpg",
+        "picture": "https://www.chewoutloud.com/wp-content/uploads/2022/08/Kung-Pao-Chicken-Horizontal.jpg",
         "ingredients": [
             "Chicken breast",
             "Dried red chilies",
@@ -48,7 +48,7 @@
         "_id": "646b0baf8c893df555c85b9d",
         "category_id": "2",
         "name": "Sweet and Sour Pork",
-        "picture": "/data/Asset/food/food (4).jpg",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAGhRuhjnRs3ZgnUZUcgcw95V7l3QEDZC2g&usqp=CAU",
         "ingredients": [
             "Pork tenderloin",
             "Pineapple chunks",
@@ -62,8 +62,8 @@
     {
         "_id": "646b0baf85a12e1840bcfd1b",
         "category_id": "1",
-        "name": "Spring Rolls",
-        "picture": "/data/Asset/food/food (5).jpg",
+        "name": "Spring Noddles",
+        "picture": "https://ik.imagekit.io/awwybhhmo/satellite_images/chinese/beyondmenu/hero/2.jpg?tr=w-3840,q-50",
         "ingredients": [
             "Spring roll wrappers",
             "Shredded cabbage",
@@ -77,8 +77,8 @@
     {
         "_id": "646b0baf597ae9d9d03ac246",
         "category_id": "2",
-        "name": "Potstickers",
-        "picture": "/data/Asset/food/food (6).jpg",
+        "name": "Snake recipe",
+        "picture": "https://www.chinasage.info/imgs/SnakeMeat.jpg",
         "ingredients": [
             "Dumpling wrappers",
             "Ground pork",
@@ -92,8 +92,8 @@
     {
         "_id": "646b0baf0c62fa105389d931",
         "category_id": "2",
-        "name": "Kung Pao Chicken",
-        "picture": "/data/Asset/food/food (7).jpg",
+        "name": "Kung hipop Chicken",
+        "picture": "https://media.newyorker.com/photos/59097261019dfc3494ea24a5/master/w_2560%2Cc_limit/Hsu-Changing-Meanings-of-Asian-Food-in-America.jpg",
         "ingredients": [
             "Chicken breast",
             "Dried red chilies",
@@ -107,8 +107,8 @@
     {
         "_id": "646b0bafb88b05670868e781",
         "category_id": "3",
-        "name": "Sweet and Sour Pork",
-        "picture": "/data/Asset/food/food (8).jpg",
+        "name": "keto chinese",
+        "picture": "https://post.greatist.com/wp-content/uploads/sites/2/2021/03/311521-grt-Keto-Chinese-Food-1200x628-Facebook.jpg",
         "ingredients": [
             "Pork tenderloin",
             "Pineapple chunks",
