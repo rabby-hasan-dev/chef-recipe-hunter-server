@@ -1,0 +1,123 @@
+[
+    {
+        "_id": "646b0baf6db7e4b819b2288c",
+        "category_id": "1",
+        "name": "Spring Rolls",
+        "picture": "https://example.com/potstickers.jpg",
+        "ingredients": [
+            "Spring roll wrappers",
+            "Shredded cabbage",
+            "Carrots",
+            "Bean sprouts",
+            "Shiitake mushrooms"
+        ],
+        "cooking_method": "1. Prepare the filling by sautéing shredded cabbage, carrots, bean sprouts, and shiitake mushrooms.\n2. Place the filling on spring roll wrappers and roll them tightly.\n3. Deep fry the spring rolls until golden brown.\n4. Serve hot with a dipping sauce of your choice.",
+        "rating": 4.5
+    },
+    {
+        "_id": "646b0baf084358cfd6c4e704",
+        "category_id": "1",
+        "name": "Potstickers",
+        "picture": "https://example.com/potstickers.jpg",
+        "ingredients": [
+            "Dumpling wrappers",
+            "Ground pork",
+            "Cabbage",
+            "Green onions",
+            "Ginger"
+        ],
+        "cooking_method": "1. Make the filling by combining ground pork, cabbage, green onions, and ginger.\n2. Fill dumpling wrappers with the prepared filling and fold them into half-moon shapes.\n3. Pan-fry the potstickers until the bottoms are golden brown.\n4. Add water to the pan, cover, and steam until the potstickers are cooked through.\n5. Serve hot with a dipping sauce.",
+        "rating": 4.8
+    },
+    {
+        "_id": "646b0baffbe2a6fb0026dbf1",
+        "category_id": "2",
+        "name": "Kung Pao Chicken",
+        "picture": "https://example.com/potstickers.jpg",
+        "ingredients": [
+            "Chicken breast",
+            "Dried red chilies",
+            "Peanuts",
+            "Bell peppers",
+            "Green onions"
+        ],
+        "cooking_method": "1. Marinate chicken breast in a mixture of soy sauce, vinegar, and cornstarch.\n2. Stir-fry chicken with dried red chilies, peanuts, bell peppers, and green onions.\n3. Add a sauce made from soy sauce, vinegar, sugar, and sesame oil.\n4. Cook until the sauce thickens and coats the ingredients.\n5. Serve hot with steamed rice.",
+        "rating": 4.2
+    },
+    {
+        "_id": "646b0baf8c893df555c85b9d",
+        "category_id": "2",
+        "name": "Sweet and Sour Pork",
+        "picture": "https://example.com/potstickers.jpg",
+        "ingredients": [
+            "Pork tenderloin",
+            "Pineapple chunks",
+            "Bell peppers",
+            "Onions",
+            "Tomato ketchup"
+        ],
+        "cooking_method": "1. Cut pork tenderloin into bite-sized pieces and coat them with cornstarch.\n2. Deep fry the pork until golden brown and set aside.\n3. Stir-fry bell peppers, onions, and pineapple chunks.\n4. Add tomato ketchup, vinegar, sugar, and water to create a sweet and sour sauce.\n5. Add the fried pork to the sauce and cook until the pork is coated and heated through.\n6. Serve hot with",
+        "rating": 4.2
+    },
+    {
+        "_id": "646b0baf85a12e1840bcfd1b",
+        "category_id": "1",
+        "name": "Spring Rolls",
+        "picture": "https://example.com/spring-rolls.jpg",
+        "ingredients": [
+            "Spring roll wrappers",
+            "Shredded cabbage",
+            "Carrots",
+            "Bean sprouts",
+            "Shiitake mushrooms"
+        ],
+        "cooking_method": "1. Prepare the filling by sautéing shredded cabbage, carrots, bean sprouts, and shiitake mushrooms.\n2. Place the filling on spring roll wrappers and roll them tightly.\n3. Deep fry the spring rolls until golden brown.\n4. Serve hot with a dipping sauce of your choice.",
+        "rating": 4.5
+    },
+    {
+        "_id": "646b0baf597ae9d9d03ac246",
+        "category_id": "2",
+        "name": "Potstickers",
+        "picture": "https://example.com/potstickers.jpg",
+        "ingredients": [
+            "Dumpling wrappers",
+            "Ground pork",
+            "Cabbage",
+            "Green onions",
+            "Ginger"
+        ],
+        "cooking_method": "1. Make the filling by combining ground pork, cabbage, green onions, and ginger.\n2. Fill dumpling wrappers with the prepared filling and fold them into half-moon shapes.\n3. Pan-fry the potstickers until the bottoms are golden brown.\n4. Add water to the pan, cover, and steam until the potstickers are cooked through.\n5. Serve hot with a dipping sauce.",
+        "rating": 4.8
+    },
+    {
+        "_id": "646b0baf0c62fa105389d931",
+        "category_id": "2",
+        "name": "Kung Pao Chicken",
+        "picture": "https://example.com/kung-pao-chicken.jpg",
+        "ingredients": [
+            "Chicken breast",
+            "Dried red chilies",
+            "Peanuts",
+            "Bell peppers",
+            "Green onions"
+        ],
+        "cooking_method": "1. Marinate chicken breast in a mixture of soy sauce, vinegar, and cornstarch.\n2. Stir-fry chicken with dried red chilies, peanuts, bell peppers, and green onions.\n3. Add a sauce made from soy sauce, vinegar, sugar, and sesame oil.\n4. Cook until the sauce thickens and coats the ingredients.\n5. Serve hot with steamed rice.",
+        "rating": 4.2
+    },
+    {
+        "_id": "646b0bafb88b05670868e781",
+        "category_id": "3",
+        "name": "Sweet and Sour Pork",
+        "picture": "https://example.com/sweet-and-sour-pork.jpg",
+        "ingredients": [
+            "Pork tenderloin",
+            "Pineapple chunks",
+            "Bell peppers",
+            "Onions",
+            "Tomato ketchup"
+        ],
+        "cooking_method": "1. Cut pork tenderloin into bite-sized\n2. Stir-fry chicken with dried red chilies, peanuts, bell peppers, and green onions.\n3. Add a sauce made from soy sauce, vinegar, sugar, and sesame oil.\n4. Cook until the sauce thickens and coats the ingredients.\n5. Serve hot with steamed rice.",
+        "rating": 4.8
+    }
+]
+
