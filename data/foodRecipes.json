@@ -3,7 +3,7 @@
         "_id": "646b0baf6db7e4b819b2288c",
         "category_id": "1",
         "name": "Spring Rolls",
-        "picture": "https://example.com/potstickers.jpg",
+        "picture": "/data/Asset/food/food (1).jpg",
         "ingredients": [
             "Spring roll wrappers",
             "Shredded cabbage",
@@ -18,7 +18,7 @@
         "_id": "646b0baf084358cfd6c4e704",
         "category_id": "1",
         "name": "Potstickers",
-        "picture": "https://example.com/potstickers.jpg",
+        "picture": "/data/Asset/food/food (2).jpg",
         "ingredients": [
             "Dumpling wrappers",
             "Ground pork",
@@ -33,7 +33,7 @@
         "_id": "646b0baffbe2a6fb0026dbf1",
         "category_id": "2",
         "name": "Kung Pao Chicken",
-        "picture": "https://example.com/potstickers.jpg",
+        "picture": "/data/Asset/food/food (3).jpg",
         "ingredients": [
             "Chicken breast",
             "Dried red chilies",
@@ -48,7 +48,7 @@
         "_id": "646b0baf8c893df555c85b9d",
         "category_id": "2",
         "name": "Sweet and Sour Pork",
-        "picture": "https://example.com/potstickers.jpg",
+        "picture": "/data/Asset/food/food (4).jpg",
         "ingredients": [
             "Pork tenderloin",
             "Pineapple chunks",
@@ -63,7 +63,7 @@
         "_id": "646b0baf85a12e1840bcfd1b",
         "category_id": "1",
         "name": "Spring Rolls",
-        "picture": "https://example.com/spring-rolls.jpg",
+        "picture": "/data/Asset/food/food (5).jpg",
         "ingredients": [
             "Spring roll wrappers",
             "Shredded cabbage",
@@ -78,7 +78,7 @@
         "_id": "646b0baf597ae9d9d03ac246",
         "category_id": "2",
         "name": "Potstickers",
-        "picture": "https://example.com/potstickers.jpg",
+        "picture": "/data/Asset/food/food (6).jpg",
         "ingredients": [
             "Dumpling wrappers",
             "Ground pork",
@@ -93,7 +93,7 @@
         "_id": "646b0baf0c62fa105389d931",
         "category_id": "2",
         "name": "Kung Pao Chicken",
-        "picture": "https://example.com/kung-pao-chicken.jpg",
+        "picture": "/data/Asset/food/food (7).jpg",
         "ingredients": [
             "Chicken breast",
             "Dried red chilies",
@@ -108,7 +108,7 @@
         "_id": "646b0bafb88b05670868e781",
         "category_id": "3",
         "name": "Sweet and Sour Pork",
-        "picture": "https://example.com/sweet-and-sour-pork.jpg",
+        "picture": "/data/Asset/food/food (8).jpg",
         "ingredients": [
             "Pork tenderloin",
             "Pineapple chunks",
